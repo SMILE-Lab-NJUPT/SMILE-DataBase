@@ -7,7 +7,7 @@
 ## 目录结构
 
 ```
-SmartDeviceDB/
+SmileDB/
 ├── README.md
 ├── Makefile
 ├── docker
